@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Vianca Camila Sandoval Macias
+- **Carrera**: Desarollo de software
+- **Fecha de entrega**: 21 octubre de 2025
 
 ---
 
